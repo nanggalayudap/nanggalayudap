@@ -4,7 +4,7 @@
 💻 UI Enthusiast | Web & App Development Learner  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge)
 ---
@@ -15,17 +15,17 @@ I enjoy building clean, functional, and user-friendly digital products, while co
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS  
-- **Programming:** Python  
+- **Frontend:** Learning HTML, CSS  
+- **Programming:** Learning Python  
 - **UI Design:** Basic UI/UX principles  
 - **App Development:** Currently exploring mobile app development  
 
 
 ## 📚 Currently Learning
-- Advanced HTML & CSS for responsive design  
-- Python for application and automation  
+- HTML & CSS 
+- Python  
 - Dart & mobile app development  
-- UI/UX best practices  
+- UI/UX practices  
 
 
 
