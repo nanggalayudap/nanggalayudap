@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Nanggala Yuda Pratama
 
-<!--
-**nanggalayudap/nanggalayudap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student at **University of Trunojoyo Madura**  
+💻 UI Enthusiast | Web & App Development Learner  
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge)
+---
+## 👨‍💻 About Me
+I am an Information Systems student with a strong interest in **User Interface (UI) design**, **web development**, and **application development**.  
+I enjoy building clean, functional, and user-friendly digital products, while continuously improving my technical and design skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS  
+- **Programming:** Python  
+- **UI Design:** Basic UI/UX principles  
+- **App Development:** Currently exploring mobile app development  
+
+
+## 📚 Currently Learning
+- Advanced HTML & CSS for responsive design  
+- Python for application and automation  
+- Dart & mobile app development  
+- UI/UX best practices  
+
+
+
+## 🚀 Interests & Goals
+- Building impactful web and mobile applications  
+- Improving UI/UX skills for better user experience  
+- Becoming a professional App Developer
+- Collaborating on open-source and real-world projects  
+
+---
+
+## 📫 Let's Connect
+- Email: nanggalayudapratama5@gmail.com
