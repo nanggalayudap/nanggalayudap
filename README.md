@@ -39,3 +39,4 @@ I enjoy building clean, functional, and user-friendly digital products, while co
 
 ## 📫 Let's Connect
 - Email: nanggalayudapratama5@gmail.com
+- Linkedin: https://www.linkedin.com/in/nanggalayudap
