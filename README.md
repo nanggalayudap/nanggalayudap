@@ -1,7 +1,7 @@
 ### `~ $ whoami`
 
 ```text
-nevielee — part of @wargalab-information-systems
+Nanggala Yuda Pratama — part of @wargalab-information-systems
 location    indonesia
 ```
 
@@ -29,16 +29,6 @@ python      ███                    5%
 css         █                      1%
 ```
 
-### `~ $ ls -t projects | head -5`
-
-```text
-2026-11-18  webdesign_EhAdaWargalab_technoversary_vol.II
-2026-11-17  ambapus-modul7
-2026-11-14  ai-engineering-roadmap
-2026-11-07  alpro-a-challenges
-2026-10-25  siTermi-ai
-```
-
 ### `~ $ stats`
 
 ```text
@@ -52,4 +42,3 @@ contributions  158 (last 12 months)
 
 <a href="https://github.com/nanggalayudap">GitHub</a>
 
-<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
